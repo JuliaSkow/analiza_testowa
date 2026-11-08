@@ -406,7 +406,7 @@ dane %>%
 
 
 ```{r 34, eval=FALSE}
-# miejsce na kod
+
 ```
 
 
@@ -415,7 +415,7 @@ dane %>%
 
 
 ```{r 35, eval=FALSE}
-# miejsce na kod
+source("./R/Challange2.R")
 ```
 
 
